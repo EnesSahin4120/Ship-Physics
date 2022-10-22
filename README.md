@@ -1,7 +1,7 @@
 # Ship-Physics
 Real Time Simulation with Runge-Kutta Integration
 
-![ezgif-4-cfa1317d4b](https://user-images.githubusercontent.com/65425355/185942127-8ae3df98-860d-4eec-a563-8d05bd1d2b66.gif)
+![ezgif-2-49e7647b57](https://user-images.githubusercontent.com/65425355/197340513-ed73b960-04eb-4c1d-bf74-537e48b19674.gif)
 
 ![1](https://user-images.githubusercontent.com/65425355/185942661-f697b551-f40e-4eca-a563-73a97bc89af9.jpeg)
 
